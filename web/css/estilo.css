@@ -1,0 +1,49 @@
+.principal{
+    background-color:rgb(93, 136, 184);
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.25;
+    text-align:center;
+  }
+.boton{
+    color:black;
+    font:2.4em Futura, ‘Century Gothic’, AppleGothic, sans-serif;
+    font-size:70%;
+    font-family: "Open Sans", sans-serif;
+    cursor:pointer;
+}
+
+
+input{
+    border-width:4px;
+    border-style:solid;
+    font-size:8pt;
+    color: green;
+    letter-spacing:3px;
+}
+table {
+    border: 1px solid #ccc;
+    border-collapse: collapse;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    table-layout: fixed;
+   
+  }
+  
+  tr:hover {
+    background-color: rgb(175, 230, 183);
+   
+  }
+  table caption {
+    font-size: 1.5em;
+    margin: .5em 0 .75em;
+      }
+  
+table tr {
+    background-color: #f8f8f8;
+    border: 3px solid #ddd;
+    padding: .35em;
+  
+}
+
+ 
